@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Maghrabi
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
